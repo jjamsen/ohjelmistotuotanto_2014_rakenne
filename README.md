@@ -6,4 +6,8 @@ Syksyn 2014 ohjelmistotuotantokurssin rakenne
 * Projektityön sisältö kirjoitetaan tässä projektissa annettuun pohjaan
 * Älä vaihda tiedostojen nimiä tai numerointia
 
-jontun versio
+jontun versio 
+
+KOIRA SAATANA
+
+tämä on tosi hyvä esimerkki
